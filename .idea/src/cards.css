@@ -1,0 +1,27 @@
+body{
+    font-family:'Trebuchet MS','Lucida Sans Unicode';
+    background-size: cover;
+    text-align: left;
+    color:green;
+    font-weight: bold;
+
+}
+h1{
+    color:blue;
+}
+#message{
+    font-style: italic;
+}
+button{
+    color:green;
+    width:200px;
+    background:orange;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-weight:bold;
+    border:none;
+    border-radius: 4px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+
+}
